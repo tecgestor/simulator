@@ -1,0 +1,8 @@
+simulador-nexo-consorcio/
+├── index.html                 # Arquivo principal (tudo em um)
+├── README.md                  # Documentação
+├── ESPECIFICACOES.md          # Especificações técnicas
+├── CALCULOS.md                # Detalhamento das fórmulas
+└── assets/
+    ├── logo-nexo.svg          # Logo Nexo Capital
+    └── favicon.ico            # Favicon
